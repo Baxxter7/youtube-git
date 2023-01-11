@@ -1,0 +1,98 @@
+commit bb569595be80ef970372d50ae734eaea3a81636e
+Author: Josue Martinez <josueisaiasmartinezlopez@gmail.com>
+Date:   Mon Jan 9 21:38:54 2023 -0600
+
+    Agregando dos parrafos al index.html
+
+commit f0aa51664395a5a012101c6070fffbd3483adb36
+Merge: 2cef350 ee0abd1
+Author: Josue Martinez <josueisaiasmartinezlopez@gmail.com>
+Date:   Mon Jan 9 21:36:13 2023 -0600
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 2cef3503d76664af32f4d8f3b3620c12e8f380c9
+Author: Josue Martinez <josueisaiasmartinezlopez@gmail.com>
+Date:   Mon Jan 9 21:20:28 2023 -0600
+
+    Agregando estaciones del año con fecha incluida
+
+commit ee0abd128654b2b082c37614ee871169d0894eb4
+Author: Josue Martinez <josueisaiasmartinezlopez@gmail.com>
+Date:   Mon Jan 9 21:20:28 2023 -0600
+
+    Agregando estaciones del año
+
+commit bead893cc9108894447dc843659e0967841cebe4
+Merge: 6d19fd5 d0d45bf
+Author: Josue Martinez <josueisaiasmartinezlopez@gmail.com>
+Date:   Mon Jan 9 14:00:08 2023 -0600
+
+    Resolviendo conflicto merge main/html
+
+commit d0d45bf5c032432fd455ee3998f363d44150392a
+Author: Josue Martinez <josueisaiasmartinezlopez@gmail.com>
+Date:   Mon Jan 9 13:34:09 2023 -0600
+
+    Agregando index.js al index.html
+
+commit 6d19fd5876ebeb8bdb3904d9e6a0936809c94b05
+Author: Josue Martinez <josueisaiasmartinezlopez@gmail.com>
+Date:   Mon Jan 9 13:31:50 2023 -0600
+
+    Agregando style.css al index.html
+
+commit 0d1b4699bfe8c80b1c167287a84e5ee64f645e1f
+Merge: 1ada96a 5003ec9
+Author: Josue Martinez <josueisaiasmartinezlopez@gmail.com>
+Date:   Mon Jan 9 13:20:37 2023 -0600
+
+    Merge branch 'js'
+
+commit 5003ec96d5923fde954ed71d3592e8bf0464a5ee
+Author: Josue Martinez <josueisaiasmartinezlopez@gmail.com>
+Date:   Mon Jan 9 13:08:20 2023 -0600
+
+    Creando index.js
+
+commit 1ada96a4727a2433674a733f0ea879d7a0aeade7
+Author: Josue Martinez <josueisaiasmartinezlopez@gmail.com>
+Date:   Mon Jan 9 13:01:20 2023 -0600
+
+    Creando style.css
+
+commit f15278c6d912742bf24dbfecf7634bddb0023622
+Author: Josue Martinez <josueisaiasmartinezlopez@gmail.com>
+Date:   Mon Jan 9 12:56:33 2023 -0600
+
+    Creando archivo index.html
+
+commit 792e19d64fd16de78613ae5f2d34dd43e112298a
+Author: Josue Martinez <josueisaiasmartinezlopez@gmail.com>
+Date:   Mon Jan 9 10:52:07 2023 -0600
+
+    Ignorando archivos
+
+commit 7928e14534910774f74db102de1794e21bcf295f
+Author: Josué Isaías Martínez López <91571699+Baxxter7@users.noreply.github.com>
+Date:   Mon Jan 9 09:38:36 2023 -0600
+
+    Creando licencia del repositorio
+
+commit 48ba6ea7d374f8d068fb4d2c7da0e95613d42aa1
+Author: Josue Martinez <josueisaiasmartinezlopez@gmail.com>
+Date:   Mon Jan 9 09:33:24 2023 -0600
+
+    Agregando mas contenido al README
+
+commit 948fc08e383e4eab7e506d1336622c3d7a576d95
+Author: Josue Martinez <josueisaiasmartinezlopez@gmail.com>
+Date:   Tue Jan 3 12:24:15 2023 -0600
+
+    Agregando contenido inicial al README
+
+commit c63053414c74e4ddca4e4ef40e02f82a870a519b
+Author: Josue Martinez <josueisaiasmartinezlopez@gmail.com>
+Date:   Tue Jan 3 12:19:18 2023 -0600
+
+    Primer commit :
